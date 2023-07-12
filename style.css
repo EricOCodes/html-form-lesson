@@ -1,0 +1,10 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+.tb {
+  min-width: 300px;
+}
